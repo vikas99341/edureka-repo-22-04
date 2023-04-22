@@ -13,6 +13,5 @@ mul=a*b
 print sum
 
 print "adding new line from demo & new  branch"
-print "adding second line from demo branch"
-
+print "adding second line from demo & new  branch"
 

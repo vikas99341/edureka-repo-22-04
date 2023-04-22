@@ -4,10 +4,10 @@ c=9
 d=1
 e=7
 f=4
-x=10
-y=11
+x=
+y=
 
-sum=a+b+c+d+e+f+x+z
+sum=a+b+c+d+e+f
 sub=a-b
 mul=a*b
 print sum
